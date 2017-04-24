@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/vendor/magento/module-catalog/view/frontend/web/js/compare.js

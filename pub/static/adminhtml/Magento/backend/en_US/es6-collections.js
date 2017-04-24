@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/lib/web/es6-collections.js

@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/lib/web/knockoutjs/knockout-es5.js

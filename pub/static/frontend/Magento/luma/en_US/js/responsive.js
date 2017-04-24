@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/vendor/magento/theme-frontend-blank/web/js/responsive.js

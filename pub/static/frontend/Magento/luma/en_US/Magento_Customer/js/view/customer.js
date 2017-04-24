@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/vendor/magento/module-customer/view/frontend/web/js/view/customer.js

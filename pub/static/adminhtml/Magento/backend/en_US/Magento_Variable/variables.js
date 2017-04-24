@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/vendor/magento/module-variable/view/adminhtml/web/variables.js

@@ -1,0 +1,14 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1492779960;s:6:"expire";i:1492783560;s:4:"tags";s:67:"e2a_BLOCK_HTML,e2a_CATALOG_PRODUCT_916,e2a_CATALOG_PRODUCT,e2a_MAGE";}
+<div class="price-box price-final_price" data-role="priceBox" data-product-id="916">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-916-widget-product-grid"                data-price-amount="32.5"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$32.50</span>    </span>
+        </span>
+
+</div>

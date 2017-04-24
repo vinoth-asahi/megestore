@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/lib/web/jquery/fileUploader/load-image.js

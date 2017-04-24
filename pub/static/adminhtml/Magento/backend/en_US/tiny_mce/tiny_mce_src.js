@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/lib/web/tiny_mce/tiny_mce_src.js

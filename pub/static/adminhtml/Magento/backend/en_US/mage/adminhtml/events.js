@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/magestore/lib/web/mage/adminhtml/events.js
