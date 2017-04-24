@@ -18,6 +18,9 @@
  * See COPYING.txt for license details.
  */
 
+echo phpinfo();
+exit;
+
 try {
     require __DIR__ . '/app/bootstrap.php';
 } catch (\Exception $e) {
